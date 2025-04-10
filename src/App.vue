@@ -8,7 +8,7 @@
 
         <button @click="getAllOperators" class="btn btn-success me-2 mt-2">Todas as Operadoras</button>
         
-        <button @click="getMaioresDespesas" class="btn btn-warning mt-2">Maiores Despesas</button>
+        <button @click="getMaioresDespesas" class="btn btn-warning mt-2">Maiores Despesas/Trimestre</button>
       </div>
   
       <div v-if="resultado.length" class="mt-4 table-scroll-wrapper position-relative">
