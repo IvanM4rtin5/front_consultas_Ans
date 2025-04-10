@@ -78,6 +78,7 @@ http://localhost:5173
 ```bash
 📁 src 
  ┣ 📂 services          # Requisições HTTP com Axios
+    ┣ 📜 index.js       # arquivo de configuração da url da api
  ┣ 📜 App.vue           # Arquivo principal
  ┣ 📜 main.js           # Configuração do app
 ```
