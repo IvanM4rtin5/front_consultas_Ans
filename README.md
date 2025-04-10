@@ -70,9 +70,9 @@ http://localhost:5173
 ```
 ### 🔗 Integração com Backend
 
-**Link Para o repositorio da API** [backend_Consultas_Ans](https://github.com/IvanM4rtin5/backend_Consultas_Ans)
-Certifique-se de que a API Flask esteja em execução localmente ou em produção.
-O frontend acessa os dados por meio de chamadas à API nos endpoints definidos.
+- **Link Para o repositorio da API** [backend_Consultas_Ans](https://github.com/IvanM4rtin5/backend_Consultas_Ans)
+- Certifique-se de que a API Flask esteja em execução localmente ou em produção.
+- O frontend acessa os dados por meio de chamadas à API nos endpoints definidos.
 
 ### 📂 Estrutura do Projeto
 ```bash
